@@ -1,3 +1,7 @@
+# Archived
+
+This project is now archived. The functionality it added is now provided by another fork of Leaflet.MousePosition (https://github.com/danwild/Leaflet.MousePosition), but which is also published on npm as `leaflet-mouse-position`. I recommend you use that module going forwards.
+
 # Leaflet.MousePosition
 
 Leaflet.MousePosition is a simple mouse position control that you can drop into your leaflet map. It displays geographic coordinates of the mouse pointer, as it is moved about the map.
